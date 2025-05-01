@@ -1,0 +1,3 @@
+quando se tem um conflito pois duas branchs editaram a mesma linha, 
+temos que entrar no arquivo com conflito, resolvelo e então adicionar 
+a linha de commit e ai sim commitar o arquivo, assim resolvendo o conflito!
