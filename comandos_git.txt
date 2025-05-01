@@ -1,8 +1,9 @@
-git init . 			 	-> para transformar uma pasta em repositorio git
-git status 				-> para checar o status dos documentos
-git add "nome do arquivo" ou "." 	-> adiciona a fila para ser comitado em seguida
-git commit -m "mensagem" 	 	-> comita o arquivo e diz quais foram as mudanças feitas
-git log                          	-> mostra o historico dos commits feitos
+git init . 			 -> Para transformar uma pasta em repositorio git
+git status 			 -> Para checar o status dos documentos
+git add "nome do arquivo" ou "." -> Adiciona a fila para ser comitado em seguida
+git commit -m "mensagem" 	 -> Comita o arquivo e diz quais foram as mudanças feitas
+git log                          -> Mostra o historico dos commits feitos
+
 
 ## FLUXO DE TRABALHO
 
