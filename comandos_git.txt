@@ -1,0 +1,4 @@
+git init . 			 -> para transformar uma pasta em repositorio git
+git status 			 -> para checar o status dos documentos
+git add "nome do arquivo" ou "." -> adiciona a fila para ser comitado em seguida
+git commit -m "mensagem" 	 -> comita o arquivo e diz quais foram as mudanças feitas
