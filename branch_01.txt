@@ -1,0 +1,2 @@
+git checkout -b "nome da branch" -> cria uma branch da main
+
