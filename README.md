@@ -4,6 +4,8 @@ Estou fazendo este curso para aprender sobre Git e Github,
 para trabalhar com versionamento de código e repositórios remotos com Github
 com o Teo Me Why no youtube!
 
+[Curso Git 2025](https://youtube.com/@teomewhy)
+
 ## Fluxo de Trabalho Git Local
 
 01. git checkout -b <nova branch>
