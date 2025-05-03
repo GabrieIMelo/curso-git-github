@@ -1,3 +1,5 @@
 git checkout -b "nome da branch" -> cria uma branch da main
 git merge "nome da branch que vai se unir a main" -> junta a branch selecionada a branch em uso
 git branch -D "nome da branch" -> deleta a branch selecionada
+git pull origin main -> serve para atualizar a minha main local pegando a main do github
+git push origin "nome da branch" -> serve para enviar para o github a branch atualizada
