@@ -6,6 +6,9 @@ com o Teo Me Why no youtube!
 
 [Curso Git 2025](https://youtube.com/@teomewhy)
 
+Aprendendo GIT FLOW nessas duas novas linhas
+aqui.
+
 ## Fluxo de Trabalho Git Local
 
 01. git checkout -b <nova branch>
